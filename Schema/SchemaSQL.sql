@@ -1,7 +1,3 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/mmG5z3
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
-
 
 CREATE TABLE "job_title" (
     "job_code" VARCHAR(7)   NOT NULL,
