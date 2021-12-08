@@ -1,3 +1,5 @@
+---SQL to create the database tables
+
 
 CREATE TABLE "job_title" (
     "job_code" VARCHAR(7)   NOT NULL,
