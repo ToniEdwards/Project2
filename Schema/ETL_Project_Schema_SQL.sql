@@ -2,7 +2,7 @@
 
 
 CREATE TABLE "job_title" (
-    "job_code" VARCHAR(7)   NOT NULL,
+    "job_code" VARCHAR   NOT NULL,
     "title" VARCHAR(100)   NOT NULL,
     CONSTRAINT "pk_job_title" PRIMARY KEY (
         "job_code"
@@ -10,7 +10,7 @@ CREATE TABLE "job_title" (
 );
 
 CREATE TABLE "education" (
-    "job_code" VARCHAR(7)   NOT NULL,
+    "job_code" VARCHAR   NOT NULL,
     "work_experience" TEXT   NOT NULL,
     "education" TEXT   NOT NULL,
     "training" TEXT   NOT NULL,
@@ -20,7 +20,7 @@ CREATE TABLE "education" (
 );
 
 CREATE TABLE "salary" (
-    "job_code" VARCHAR(7)   NOT NULL,
+    "job_code" VARCHAR   NOT NULL,
     "statewide" INT   NOT NULL,
     "abilene" INT   NOT NULL,
     "amarillo" INT   NOT NULL,
@@ -53,7 +53,7 @@ CREATE TABLE "salary" (
 );
 
 CREATE TABLE "projections" (
-    "job_code" VARCHAR(7)   NOT NULL,
+    "job_code" VARCHAR   NOT NULL,
     "employment" INT   NOT NULL,
     "projections" INT   NOT NULL,
     "absolute_change" INT   NOT NULL,
