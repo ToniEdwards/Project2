@@ -1,4 +1,4 @@
-# Project2
+# Project 2
 Introduction to ETL, Extract, Transform, and Load
 ![Slide1](https://user-images.githubusercontent.com/88690223/145689563-7fe3f034-e9e2-4782-ac77-a4d3dc9a7c48.PNG)
 ![Slide2](https://user-images.githubusercontent.com/88690223/145689564-e8f6e351-74d3-4862-a22d-fbd144cdfecd.PNG)
