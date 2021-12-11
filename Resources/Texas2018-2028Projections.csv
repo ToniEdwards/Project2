@@ -1,0 +1,703 @@
+SOC,SOC Title,Employment,Projected,Absolute Change,Percent Change,Average Annual Openings
+"    ""00-0000""","Total, All Occupations",13451119,15152870,1701751,12.6514,1812852
+"    ""11-1011""",Chief Executives,7217,7437,220,3.0484,543
+"    ""11-1021""",General and Operations Managers,201052,235280,34228,17.0245,22369
+"    ""11-1031""",Legislators,1801,1960,159,8.8284,159
+"    ""11-2011""",Advertising and Promotions Managers,1712,1964,252,14.7196,198
+"    ""11-2021""",Marketing Managers,13569,16142,2573,18.9623,1575
+"    ""11-2022""",Sales Managers,27943,32464,4521,16.1794,3131
+"    ""11-2030""",Public Relations and Fundraising Managers,4819,5599,780,16.1859,522
+"    ""11-3010""",Administrative Services and Facilities Managers,26567,30684,4117,15.4967,2797
+"    ""11-3021""",Computer and Information Systems Managers,22617,27400,4783,21.1478,2429
+"    ""11-3031""",Financial Managers,41399,53840,12441,30.0515,4915
+"    ""11-3051""",Industrial Production Managers,11851,12806,955,8.0584,995
+"    ""11-3061""",Purchasing Managers,5434,6144,710,13.0659,555
+"    ""11-3071""","Transportation, Storage, and Distribution Managers",11810,13765,1955,16.5538,1203
+"    ""11-3111""",Compensation and Benefits Managers,975,1113,138,14.1538,102
+"    ""11-3121""",Human Resources Managers,8436,9859,1423,16.8682,917
+"    ""11-3131""",Training and Development Managers,1959,2308,349,17.8152,223
+"    ""11-9013""","Farmers, Ranchers, and Other Agricultural Managers",246403,212957,-33446,-13.5737,19471
+"    ""11-9021""",Construction Managers,51754,60570,8816,17.0344,4922
+"    ""11-9031""","Education and Childcare Administrators, Preschool and Daycare",4012,4483,471,11.7398,377
+"    ""11-9032""","Education Administrators, Kindergarten through Secondary",28502,31806,3304,11.5922,2669
+"    ""11-9039""","Education Administrators, All Other",2223,2638,415,18.6685,231
+"    ""11-9041""",Architectural and Engineering Managers,13104,14257,1153,8.7988,1102
+"    ""11-9051""",Food Service Managers,20380,24702,4322,21.2071,3014
+"    ""11-9081""",Lodging Managers,4658,5382,724,15.5432,587
+"    ""11-9111""",Medical and Health Services Managers,32316,39403,7087,21.9303,3550
+"    ""11-9121""",Natural Sciences Managers,2677,3130,453,16.9219,301
+"    ""11-9131""",Postmasters and Mail Superintendents,786,638,-148,-18.8295,39
+"    ""11-9141""","Property, Real Estate, and Community Association Managers",25180,29929,4749,18.8602,2596
+"    ""11-9151""",Social and Community Service Managers,6124,7690,1566,25.5715,758
+"    ""11-9161""",Emergency Management Directors,557,608,51,9.1562,51
+"    ""11-9171""",Funeral Home Managers,1121,1218,97,8.653,99
+"    ""13-1020""",Buyers and Purchasing Agents,38652,39134,482,1.247,4103
+"    ""13-1031""","Claims Adjusters, Examiners, and Investigators",24357,24979,622,2.5537,2147
+"    ""13-1032""","Insurance Appraisers, Auto Damage",1794,2009,215,11.9844,183
+"    ""13-1041""",Compliance Officers,27838,31840,4002,14.376,3015
+"    ""13-1051""",Cost Estimators,17707,20224,2517,14.2147,2122
+"    ""13-1071""",Human Resources Specialists,49590,56565,6975,14.0653,6022
+"    ""13-1075""",Labor Relations Specialists,2566,2736,170,6.6251,283
+"    ""13-1081""",Logisticians,14454,16918,2464,17.0472,1741
+"    ""13-1111""",Management Analysts,44819,56771,11952,26.6673,5979
+"    ""13-1121""","Meeting, Convention, and Event Planners",8770,10440,1670,19.0422,1261
+"    ""13-1131""",Fundraisers,5261,6407,1146,21.7829,722
+"    ""13-1141""","Compensation, Benefits, and Job Analysis Specialists",5704,6584,880,15.4278,671
+"    ""13-1151""",Training and Development Specialists,24611,29566,4955,20.1333,3401
+"    ""13-1161""",Market Research Analysts and Marketing Specialists,30609,40776,10167,33.2157,4665
+"    ""13-2011""",Accountants and Auditors,128250,152305,24055,18.7563,15480
+"    ""13-2020""",Property Appraisers and Assessors,7530,8694,1164,15.4582,719
+"    ""13-2031""",Budget Analysts,4394,4881,487,11.0833,410
+"    ""13-2041""",Credit Analysts,7762,9161,1399,18.0237,901
+"    ""13-2052""",Personal Financial Advisors,14952,18734,3782,25.2943,1650
+"    ""13-2053""",Insurance Underwriters,7749,7984,235,3.0326,678
+"    ""13-2061""",Financial Examiners,4338,5194,856,19.7326,445
+"    ""13-2071""",Credit Counselors,2146,2366,220,10.2516,211
+"    ""13-2072""",Loan Officers,20636,24631,3995,19.3594,2294
+"    ""13-2081""","Tax Examiners and Collectors, and Revenue Agents",4236,4184,-52,-1.2276,345
+"    ""13-2082""",Tax Preparers,8052,9676,1624,20.1689,1171
+"    ""15-1211""",Computer Systems Analysts,54102,62744,8642,15.9735,5083
+"    ""15-1212""",Information Security Analysts,8451,11675,3224,38.1493,1037
+"    ""15-1221""",Computer and Information Research Scientists,1830,2321,491,26.8306,209
+"    ""15-1231""",Computer Network Support Specialists,12840,14990,2150,16.7445,1356
+"    ""15-1232""",Computer User Support Specialists,61572,73179,11607,18.8511,6683
+"    ""15-1241""",Computer Network Architects,10943,12554,1611,14.7217,978
+"    ""15-1244""",Network and Computer Systems Administrators,34970,39689,4719,13.4944,3078
+"    ""15-1245""",Database Administrators and Architects,10637,12536,1899,17.8528,1012
+"    ""15-1251""",Computer Programmers,22300,22008,-292,-1.3094,1525
+"    ""15-1256""",Software Developers and Software Quality Assurance Analysts and Testers,68289,89736,21447,31.4062,7709
+"    ""15-1257""",Web Developers and Digital Interface Designers,9780,11822,2042,20.8793,1025
+"    ""15-1299""","Computer Occupations, All Other",25750,30849,5099,19.8019,2564
+"    ""15-2011""",Actuaries,1038,1430,392,37.7649,113
+"    ""15-2021""",Mathematicians,155,206,51,32.9032,19
+"    ""15-2031""",Operations Research Analysts,11077,15270,4193,37.8532,1275
+"    ""15-2041""",Statisticians,1998,2885,887,44.3944,276
+"    ""17-1011""","Architects, Except Landscape and Naval",11189,12701,1512,13.5133,1068
+"    ""17-1012""",Landscape Architects,1388,1507,119,8.5735,123
+"    ""17-1021""",Cartographers and Photogrammetrists,1357,1613,256,18.8651,135
+"    ""17-1022""",Surveyors,4781,5324,543,11.3575,423
+"    ""17-2011""",Aerospace Engineers,7061,7358,297,4.2062,494
+"    ""17-2031""",Bioengineers and Biomedical Engineers,913,1019,106,11.6101,80
+"    ""17-2041""",Chemical Engineers,8249,8495,246,2.9822,550
+"    ""17-2051""",Civil Engineers,26112,29137,3025,11.5847,2452
+"    ""17-2061""",Computer Hardware Engineers,2221,2446,225,10.1306,190
+"    ""17-2071""",Electrical Engineers,15002,16957,1955,13.0316,1252
+"    ""17-2072""","Electronics Engineers, Except Computer",11358,12822,1464,12.8896,944
+"    ""17-2081""",Environmental Engineers,3384,3976,592,17.4941,338
+"    ""17-2111""","Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",3699,4157,458,12.3817,314
+"    ""17-2112""",Industrial Engineers,18168,20806,2638,14.52,1594
+"    ""17-2121""",Marine Engineers and Naval Architects,692,841,149,21.5318,59
+"    ""17-2131""",Materials Engineers,2424,2646,222,9.1584,181
+"    ""17-2141""",Mechanical Engineers,21378,23378,2000,9.3554,1714
+"    ""17-2161""",Nuclear Engineers,558,566,8,1.4337,36
+"    ""17-2171""",Petroleum Engineers,19787,22595,2808,14.1911,1816
+"    ""17-2199""","Engineers, All Other",11682,12922,1240,10.6146,973
+"    ""17-3011""",Architectural and Civil Drafters,11665,12476,811,6.9524,1324
+"    ""17-3012""",Electrical and Electronics Drafters,2951,3262,311,10.5388,351
+"    ""17-3013""",Mechanical Drafters,4992,5049,57,1.1418,523
+"    ""17-3019""","Drafters, All Other",1882,2117,235,12.4867,229
+"    ""17-3021""",Aerospace Engineering and Operations Technologists and Technicians,1024,1097,73,7.1289,110
+"    ""17-3022""",Civil Engineering Technologists and Technicians,11224,12009,785,6.9939,1210
+"    ""17-3023""",Electrical and Electronic Engineering Technologists and Technicians,12431,13368,937,7.5376,1351
+"    ""17-3024""",Electro-Mechanical and Mechatronics Technologists and Technicians,1667,1889,222,13.3173,195
+"    ""17-3025""",Environmental Engineering Technologists and Technicians,1284,1557,273,21.2617,166
+"    ""17-3026""",Industrial Engineering Technologists and Technicians,5206,5422,216,4.1491,540
+"    ""17-3027""",Mechanical Engineering Technologists and Technicians,3317,3668,351,10.5819,376
+"    ""17-3031""",Surveying and Mapping Technicians,7737,8507,770,9.9522,1031
+"    ""19-1011""",Animal Scientists,299,320,21,7.0234,36
+"    ""19-1012""",Food Scientists and Technologists,681,822,141,20.7048,98
+"    ""19-1013""",Soil and Plant Scientists,773,876,103,13.3247,102
+"    ""19-1021""",Biochemists and Biophysicists,1421,1763,342,24.0676,180
+"    ""19-1022""",Microbiologists,1029,1133,104,10.1069,109
+"    ""19-1023""",Zoologists and Wildlife Biologists,426,573,147,34.507,61
+"    ""19-1029""","Biological Scientists, All Other",2205,2411,206,9.3424,233
+"    ""19-1031""",Conservation Scientists,2252,2428,176,7.8153,261
+"    ""19-1032""",Foresters,189,249,60,31.746,28
+"    ""19-1041""",Epidemiologists,698,757,59,8.4527,71
+"    ""19-1042""","Medical Scientists, Except Epidemiologists",5247,5949,702,13.3791,568
+"    ""19-1099""","Life Scientists, All Other",140,151,11,7.8571,14
+"    ""19-2011""",Astronomers,211,221,10,4.7393,18
+"    ""19-2012""",Physicists,1015,1187,172,16.9458,105
+"    ""19-2021""",Atmospheric and Space Scientists,672,839,167,24.8512,90
+"    ""19-2031""",Chemists,5305,5803,498,9.3874,550
+"    ""19-2032""",Materials Scientists,690,727,37,5.3623,68
+"    ""19-2041""","Environmental Scientists and Specialists, Including Health",4357,5296,939,21.5515,615
+"    ""19-2042""","Geoscientists, Except Hydrologists and Geographers",8094,8858,764,9.4391,991
+"    ""19-2043""",Hydrologists,330,389,59,17.8788,45
+"    ""19-2099""","Physical Scientists, All Other",1548,1660,112,7.2351,149
+"    ""19-3011""",Economists,909,1147,238,26.1826,100
+"    ""19-3022""",Survey Researchers,441,470,29,6.576,55
+"    ""19-3031""","Clinical, Counseling, and School Psychologists",9725,11283,1558,16.0206,892
+"    ""19-3039""","Psychologists, All Other",1043,1178,135,12.9434,92
+"    ""19-3051""",Urban and Regional Planners,2327,2719,392,16.8457,273
+"    ""19-3091""",Anthropologists and Archeologists,292,317,25,8.5616,37
+"    ""19-3092""",Geographers,162,173,11,6.7901,20
+"    ""19-3093""",Historians,139,156,17,12.2302,19
+"    ""19-3094""",Political Scientists,230,248,18,7.8261,30
+"    ""19-3099""","Social Scientists and Related Workers, All Other",2135,2327,192,8.993,275
+"    ""19-4010""",Agricultural and Food Science Technicians,1175,1256,81,6.8936,156
+"    ""19-4021""",Biological Technicians,5891,6517,626,10.6264,714
+"    ""19-4031""",Chemical Technicians,7524,7300,-224,-2.9771,717
+"    ""19-4042""","Environmental Science and Protection Technicians, Including Health",2937,3648,711,24.2084,461
+"    ""19-4045""",Geological and Hydrologic Technicians,6525,7331,806,12.3525,772
+"    ""19-4051""",Nuclear Technicians,249,263,14,5.6225,31
+"    ""19-4061""",Social Science Research Assistants,1511,1677,166,10.9861,206
+"    ""19-4071""",Forest and Conservation Technicians,426,457,31,7.277,55
+"    ""19-4092""",Forensic Science Technicians,1371,1634,263,19.1831,204
+"    ""19-4099""","Life, Physical, and Social Science Technicians, All Other",5206,6177,971,18.6516,772
+"    ""19-5011""",Occupational Health and Safety Specialists,12772,14954,2182,17.0842,997
+"    ""19-5012""",Occupational Health and Safety Technicians,3077,3556,479,15.5671,234
+"    ""21-1012""","Educational, Guidance, and Career Counselors and Advisors",26292,30050,3758,14.2933,3258
+"    ""21-1015""",Rehabilitation Counselors,3749,4452,703,18.7517,490
+"    ""21-1018""","Substance Abuse, Behavioral Disorder, and Mental Health Counselors",11430,14379,2949,25.8005,1615
+"    ""21-1019""","Counselors, All Other",2884,3524,640,22.1914,392
+"    ""21-1021""","Child, Family, and School Social Workers",21521,24292,2771,12.8758,2513
+"    ""21-1022""",Healthcare Social Workers,10349,12262,1913,18.4849,1295
+"    ""21-1023""",Mental Health and Substance Abuse Social Workers,6367,7554,1187,18.643,799
+"    ""21-1029""","Social Workers, All Other",1939,2215,276,14.2341,230
+"    ""21-1091""",Health Education Specialists,2506,2966,460,18.3559,355
+"    ""21-1093""",Social and Human Service Assistants,21281,25337,4056,19.0593,3177
+"    ""21-1094""",Community Health Workers,3116,3650,534,17.1374,435
+"    ""21-1099""","Community and Social Service Specialists, All Other",3009,3502,493,16.3842,416
+"    ""21-2011""",Clergy,32436,36287,3851,11.8726,4107
+"    ""21-2021""","Directors, Religious Activities and Education",10508,11697,1189,11.3152,1493
+"    ""21-2099""","Religious Workers, All Other",4052,4528,476,11.7473,601
+"    ""23-1011""",Lawyers,55374,65534,10160,18.348,3913
+"    ""23-1021""","Administrative Law Judges, Adjudicators, and Hearing Officers",1211,1286,75,6.1932,68
+"    ""23-1022""","Arbitrators, Mediators, and Conciliators",575,617,42,7.3043,33
+"    ""23-2011""",Paralegals and Legal Assistants,25544,32067,6523,25.5363,3699
+"    ""23-2093""","Title Examiners, Abstractors, and Searchers",7282,7856,574,7.8824,728
+"    ""25-1011""","Business Teachers, Postsecondary",5890,6937,1047,17.7759,635
+"    ""25-1021""","Computer Science Teachers, Postsecondary",2496,2724,228,9.1346,239
+"    ""25-1022""","Mathematical Science Teachers, Postsecondary",4579,4991,412,8.9976,437
+"    ""25-1031""","Architecture Teachers, Postsecondary",679,739,60,8.8365,64
+"    ""25-1032""","Engineering Teachers, Postsecondary",3797,4287,490,12.9049,383
+"    ""25-1041""","Agricultural Sciences Teachers, Postsecondary",982,1041,59,6.0081,89
+"    ""25-1042""","Biological Science Teachers, Postsecondary",4311,4962,651,15.1009,449
+"    ""25-1043""","Forestry and Conservation Science Teachers, Postsecondary",95,101,6,6.3158,9
+"    ""25-1051""","Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",902,969,67,7.4279,84
+"    ""25-1052""","Chemistry Teachers, Postsecondary",1637,1792,155,9.4685,158
+"    ""25-1053""","Environmental Science Teachers, Postsecondary",275,298,23,8.3636,25
+"    ""25-1054""","Physics Teachers, Postsecondary",1148,1250,102,8.885,109
+"    ""25-1061""","Anthropology and Archeology Teachers, Postsecondary",370,402,32,8.6486,35
+"    ""25-1062""","Area, Ethnic, and Cultural Studies Teachers, Postsecondary",494,536,42,8.502,47
+"    ""25-1063""","Economics Teachers, Postsecondary",988,1086,98,9.919,96
+"    ""25-1064""","Geography Teachers, Postsecondary",274,295,21,7.6642,25
+"    ""25-1065""","Political Science Teachers, Postsecondary",1840,2000,160,8.6957,175
+"    ""25-1066""","Psychology Teachers, Postsecondary",2982,3389,407,13.6486,304
+"    ""25-1067""","Sociology Teachers, Postsecondary",973,1070,97,9.9692,95
+"    ""25-1069""","Social Sciences Teachers, Postsecondary, All Other",949,1023,74,7.7977,88
+"    ""25-1071""","Health Specialties Teachers, Postsecondary",13569,16937,3368,24.8213,1598
+"    ""25-1072""","Nursing Instructors and Teachers, Postsecondary",3757,4742,985,26.2177,449
+"    ""25-1081""","Education Teachers, Postsecondary",4522,4946,424,9.3764,433
+"    ""25-1082""","Library Science Teachers, Postsecondary",369,395,26,7.0461,35
+"    ""25-1111""","Criminal Justice and Law Enforcement Teachers, Postsecondary",1168,1355,187,16.0103,123
+"    ""25-1112""","Law Teachers, Postsecondary",1239,1372,133,10.7345,121
+"    ""25-1113""","Social Work Teachers, Postsecondary",591,643,52,8.7986,56
+"    ""25-1121""","Art, Drama, and Music Teachers, Postsecondary",6052,6681,629,10.3933,589
+"    ""25-1122""","Communications Teachers, Postsecondary",2372,2570,198,8.3474,224
+"    ""25-1123""","English Language and Literature Teachers, Postsecondary",5147,5646,499,9.695,497
+"    ""25-1124""","Foreign Language and Literature Teachers, Postsecondary",1575,1801,226,14.3492,162
+"    ""25-1125""","History Teachers, Postsecondary",2064,2264,200,9.6899,199
+"    ""25-1126""","Philosophy and Religion Teachers, Postsecondary",1476,1640,164,11.1111,145
+"    ""25-1192""","Family and Consumer Sciences Teachers, Postsecondary",131,140,9,6.8702,12
+"    ""25-1193""","Recreation and Fitness Studies Teachers, Postsecondary",1581,1715,134,8.4756,150
+"    ""25-1194""","Career/Technical Education Teachers, Postsecondary",10241,11559,1318,12.8698,1033
+"    ""25-1199""","Postsecondary Teachers, All Other",3382,3665,283,8.3678,320
+"    ""25-2011""","Preschool Teachers, Except Special Education",40090,45193,5103,12.7289,4790
+"    ""25-2012""","Kindergarten Teachers, Except Special Education",14942,16597,1655,11.0762,1749
+"    ""25-2021""","Elementary School Teachers, Except Special Education",135400,149970,14570,10.7607,11982
+"    ""25-2022""","Middle School Teachers, Except Special and Career/Technical Education",65308,72425,7117,10.8976,5791
+"    ""25-2023""","Career/Technical Education Teachers, Middle School",1644,1809,165,10.0365,144
+"    ""25-2031""","Secondary School Teachers, Except Special and Career/Technical Education",109180,121135,11955,10.9498,9263
+"    ""25-2032""","Career/Technical Education Teachers, Secondary School",10718,11743,1025,9.5634,889
+"    ""25-2051""","Special Education Teachers, Preschool",1027,1188,161,15.6767,100
+"    ""25-2052""","Special Education Teachers, Kindergarten and Elementary School",13195,14504,1309,9.9204,1171
+"    ""25-2057""","Special Education Teachers, Middle School",7456,8200,744,9.9785,662
+"    ""25-2058""","Special Education Teachers, Secondary School",12702,13995,1293,10.1795,1132
+"    ""25-2059""","Special Education Teachers, All Other",1450,1641,191,13.1724,135
+"    ""25-3021""",Self-Enrichment Teachers,21162,28110,6948,32.8324,3504
+"    ""25-3097""","Tutors and Teachers and Instructors, All Other",27717,34052,6335,22.856,4155
+"    ""25-4011""",Archivists,516,595,79,15.3101,68
+"    ""25-4012""",Curators,691,797,106,15.3401,92
+"    ""25-4013""",Museum Technicians and Conservators,517,594,77,14.8936,68
+"    ""25-4022""",Librarians and Media Collections Specialists,9360,10321,961,10.2671,1075
+"    ""25-4031""",Library Technicians,3836,3809,-27,-0.7039,583
+"    ""25-9021""",Farm and Home Management Educators,185,212,27,14.5946,21
+"    ""25-9031""",Instructional Coordinators,15952,18055,2103,13.1833,1791
+"    ""25-9044""","Teaching Assistants, Postsecondary",9875,10450,575,5.8228,898
+"    ""25-9045""","Teaching Assistants, Except Postsecondary",89781,99907,10126,11.2786,11006
+"    ""25-9099""","Educational Instruction and Library Workers, All Other",5218,6094,876,16.788,613
+"    ""27-1011""",Art Directors,5470,6131,661,12.0841,696
+"    ""27-1012""",Craft Artists,1228,1464,236,19.2182,170
+"    ""27-1013""","Fine Artists, Including Painters, Sculptors, and Illustrators",1434,1605,171,11.9247,182
+"    ""27-1014""",Special Effects Artists and Animators,6303,7210,907,14.39,825
+"    ""27-1019""","Artists and Related Workers, All Other",395,454,59,14.9367,52
+"    ""27-1021""",Commercial and Industrial Designers,2990,3374,384,12.8428,355
+"    ""27-1022""",Fashion Designers,266,298,32,12.0301,31
+"    ""27-1023""",Floral Designers,3985,3745,-240,-6.0226,362
+"    ""27-1024""",Graphic Designers,18132,20364,2232,12.3097,2143
+"    ""27-1025""",Interior Designers,5703,6357,654,11.4676,667
+"    ""27-1026""",Merchandise Displayers and Window Trimmers,22508,26054,3546,15.7544,2776
+"    ""27-1027""",Set and Exhibit Designers,436,501,65,14.9083,53
+"    ""27-1029""","Designers, All Other",254,304,50,19.685,33
+"    ""27-2011""",Actors,1737,2000,263,15.141,246
+"    ""27-2012""",Producers and Directors,6802,7523,721,10.5998,775
+"    ""27-2021""",Athletes and Sports Competitors,360,383,23,6.3889,56
+"    ""27-2022""",Coaches and Scouts,15136,19804,4668,30.8404,3016
+"    ""27-2023""","Umpires, Referees, and Other Sports Officials",1021,1146,125,12.2429,170
+"    ""27-2031""",Dancers,1035,1134,99,9.5652,198
+"    ""27-2032""",Choreographers,1272,1586,314,24.6855,278
+"    ""27-2041""",Music Directors and Composers,5006,5476,470,9.3887,671
+"    ""27-2042""",Musicians and Singers,12565,13761,1196,9.5185,1689
+"    ""27-2090""","Miscellaneous Entertainers and Performers, Sports and Related Workers",924,971,47,5.0866,114
+"    ""27-3011""",Broadcast Announcers and Radio Disc Jockeys,3223,3052,-171,-5.3056,346
+"    ""27-3023""","News Analysts, Reporters, and Journalists",2547,2358,-189,-7.4205,281
+"    ""27-3031""",Public Relations Specialists,30149,34990,4841,16.0569,3867
+"    ""27-3041""",Editors,6743,6789,46,0.6822,744
+"    ""27-3042""",Technical Writers,4967,5847,880,17.7169,614
+"    ""27-3043""",Writers and Authors,5921,6561,640,10.809,714
+"    ""27-3091""",Interpreters and Translators,7344,9462,2118,28.8399,1055
+"    ""27-3099""","Media and Communication Workers, All Other",777,889,112,14.4144,95
+"    ""27-4011""",Audio and Video Technicians,6482,7807,1325,20.4412,894
+"    ""27-4012""",Broadcast Technicians,1801,1856,55,3.0539,201
+"    ""27-4014""",Sound Engineering Technicians,780,832,52,6.6667,91
+"    ""27-4021""",Photographers,9066,8180,-886,-9.7728,764
+"    ""27-4031""","Camera Operators, Television, Video, and Film",1721,1999,278,16.1534,209
+"    ""27-4032""",Film and Video Editors,1867,2281,414,22.1746,244
+"    ""29-1011""",Chiropractors,3293,3612,319,9.6872,125
+"    ""29-1021""","Dentists, General",9977,13139,3162,31.6929,664
+"    ""29-1022""",Oral and Maxillofacial Surgeons,566,698,132,23.3216,32
+"    ""29-1023""",Orthodontists,751,997,246,32.7563,52
+"    ""29-1031""",Dietitians and Nutritionists,5334,6138,804,15.0731,440
+"    ""29-1041""",Optometrists,3150,3549,399,12.6667,139
+"    ""29-1051""",Pharmacists,21433,23660,2227,10.3905,1236
+"    ""29-1071""",Physician Assistants,8153,11190,3037,37.2501,854
+"    ""29-1081""",Podiatrists,522,576,54,10.3448,36
+"    ""29-1122""",Occupational Therapists,9568,11355,1787,18.6768,767
+"    ""29-1123""",Physical Therapists,17340,20881,3541,20.421,1151
+"    ""29-1124""",Radiation Therapists,2228,2625,397,17.8187,157
+"    ""29-1125""",Recreational Therapists,1106,1278,172,15.5515,74
+"    ""29-1126""",Respiratory Therapists,11573,14894,3321,28.6961,1032
+"    ""29-1127""",Speech-Language Pathologists,14887,19618,4731,31.7794,1394
+"    ""29-1128""",Exercise Physiologists,1192,1386,194,16.2752,89
+"    ""29-1131""",Veterinarians,5663,6871,1208,21.3314,362
+"    ""29-1141""",Registered Nurses,216124,252330,36206,16.7524,16129
+"    ""29-1151""",Nurse Anesthetists,6321,7922,1601,25.3283,512
+"    ""29-1171""",Nurse Practitioners,12456,16429,3973,31.8963,1169
+"    ""29-1181""",Audiologists,782,956,174,22.2506,51
+"    ""29-1211""",Anesthesiologists,4331,4837,506,11.6832,185
+"    ""29-1215""",Family Medicine Physicians,9117,10639,1522,16.6941,441
+"    ""29-1216""",General Internal Medicine Physicians,5152,5638,486,9.4332,206
+"    ""29-1218""",Obstetricians and Gynecologists,1772,1905,133,7.5056,67
+"    ""29-1221""","Pediatricians, General",2543,2735,192,7.5501,96
+"    ""29-1223""",Psychiatrists,1363,1641,278,20.3962,72
+"    ""29-1228""","Physicians, All Other; and Ophthalmologists, Except Pediatric",25954,30131,4177,16.0939,1238
+"    ""29-1292""",Dental Hygienists,14179,19144,4965,35.0166,1613
+"    ""29-2010""",Clinical Laboratory Technologists and Technicians,26801,31191,4390,16.38,2267
+"    ""29-2031""",Cardiovascular Technologists and Technicians,6182,7157,975,15.7716,464
+"    ""29-2032""",Diagnostic Medical Sonographers,4977,6278,1301,26.1402,438
+"    ""29-2033""",Nuclear Medicine Technologists,1110,1272,162,14.5946,81
+"    ""29-2034""",Radiologic Technologists and Technicians,16548,19109,2561,15.4762,1234
+"    ""29-2035""",Magnetic Resonance Imaging Technologists,2936,3493,557,18.9714,232
+"    ""29-2040""",Emergency Medical Technicians and Paramedics,19690,21817,2127,10.8024,1592
+"    ""29-2051""",Dietetic Technicians,2890,3190,300,10.3806,275
+"    ""29-2052""",Pharmacy Technicians,37240,44252,7012,18.8292,3987
+"    ""29-2053""",Psychiatric Technicians,4148,4889,741,17.864,439
+"    ""29-2055""",Surgical Technologists,10520,12005,1485,14.116,1057
+"    ""29-2056""",Veterinary Technologists and Technicians,12329,15043,2714,22.0131,1375
+"    ""29-2057""",Ophthalmic Medical Technicians,5708,6991,1283,22.4772,640
+"    ""29-2061""",Licensed Practical and Licensed Vocational Nurses,74389,82343,7954,10.6924,6766
+"    ""29-2081""","Opticians, Dispensing",6543,7224,681,10.4081,611
+"    ""29-2091""",Orthotists and Prosthetists,506,645,139,27.4704,53
+"    ""29-2092""",Hearing Aid Specialists,523,667,144,27.5335,54
+"    ""29-9091""",Athletic Trainers,2499,3091,592,23.6895,216
+"    ""29-9092""",Genetic Counselors,111,150,39,35.1351,11
+"    ""31-1120""",Home Health and Personal Care Aides,72403,85892,13489,18.6304,10219
+"    ""31-1131""",Nursing Assistants,91226,101789,10563,11.5789,11871
+"    ""31-1132""",Orderlies,4196,4652,456,10.8675,542
+"    ""31-1133""",Psychiatric Aides,5551,6619,1068,19.2398,789
+"    ""31-2011""",Occupational Therapy Assistants,3691,4998,1307,35.4105,602
+"    ""31-2012""",Occupational Therapy Aides,226,274,48,21.2389,32
+"    ""31-2021""",Physical Therapist Assistants,7812,10091,2279,29.1731,1338
+"    ""31-2022""",Physical Therapist Aides,5061,6344,1283,25.3507,835
+"    ""31-9011""",Massage Therapists,13579,17406,3827,28.1832,2188
+"    ""31-9091""",Dental Assistants,30722,41711,10989,35.7692,5155
+"    ""31-9092""",Medical Assistants,60957,77619,16662,27.334,9299
+"    ""31-9093""",Medical Equipment Preparers,3315,3825,510,15.3846,457
+"    ""31-9094""",Medical Transcriptionists,5158,5471,313,6.0682,771
+"    ""31-9095""",Pharmacy Aides,2543,2412,-131,-5.1514,302
+"    ""31-9096""",Veterinary Assistants and Laboratory Animal Caretakers,5609,6838,1229,21.9112,1127
+"    ""31-9097""",Phlebotomists,9405,11890,2485,26.4221,1374
+"    ""31-9099""","Healthcare Support Workers, All Other",6904,7990,1086,15.73,955
+"    ""33-1011""",First-Line Supervisors of Correctional Officers,4535,4314,-221,-4.8732,288
+"    ""33-1012""",First-Line Supervisors of Police and Detectives,6528,7102,574,8.7929,478
+"    ""33-1021""",First-Line Supervisors of Firefighting and Prevention Workers,3812,4174,362,9.4963,288
+"    ""33-1090""","Miscellaneous First-Line Supervisors, Protective Service Workers",5204,5615,411,7.8978,556
+"    ""33-2011""",Firefighters,29432,32228,2796,9.4999,2379
+"    ""33-2021""",Fire Inspectors and Investigators,2134,2336,202,9.4658,226
+"    ""33-2022""",Forest Fire Inspectors and Prevention Specialists,104,133,29,27.8846,14
+"    ""33-3021""",Detectives and Criminal Investigators,17598,18904,1306,7.4213,1304
+"    ""33-3031""",Fish and Game Wardens,528,551,23,4.3561,41
+"    ""33-3041""",Parking Enforcement Workers,514,335,-179,-34.8249,12
+"    ""33-3051""",Police and Sheriff's Patrol Officers,61159,66676,5517,9.0207,5036
+"    ""33-3052""",Transit and Railroad Police,338,370,32,9.4675,27
+"    ""33-9021""",Private Detectives and Investigators,1683,1996,313,18.5977,192
+"    ""33-9032""",Security Guards,89591,97907,8316,9.2822,12898
+"    ""33-9091""",Crossing Guards and Flaggers,6312,7035,723,11.4544,1165
+"    ""33-9092""","Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",13914,16383,2469,17.7447,3904
+"    ""33-9093""",Transportation Security Screeners,4037,4357,320,7.9267,428
+"    ""33-9098""","School Bus Monitors and Protective Service Workers, All Other",9479,10734,1255,13.2398,2566
+"    ""35-1011""",Chefs and Head Cooks,6411,7741,1330,20.7456,1058
+"    ""35-1012""",First-Line Supervisors of Food Preparation and Serving Workers,86095,101252,15157,17.605,15816
+"    ""35-2011""","Cooks, Fast Food",40465,39585,-880,-2.1747,5573
+"    ""35-2012""","Cooks, Institution and Cafeteria",33942,38321,4379,12.9014,5549
+"    ""35-2014""","Cooks, Restaurant",111414,144001,32587,29.2486,21325
+"    ""35-2015""","Cooks, Short Order",17253,18237,984,5.7034,2608
+"    ""35-2021""",Food Preparation Workers,56676,66020,9344,16.4867,11545
+"    ""35-3011""",Bartenders,42800,49415,6615,15.4556,8771
+"    ""35-3023""",Fast Food and Counter Workers,392586,488454,95868,24.4196,88031
+"    ""35-3031""",Waiters and Waitresses,219366,247421,28055,12.7891,47604
+"    ""35-3041""","Food Servers, Nonrestaurant",20698,24579,3881,18.7506,3924
+"    ""35-9011""",Dining Room and Cafeteria Attendants and Bartender Helpers,36513,42795,6282,17.2048,7403
+"    ""35-9021""",Dishwashers,32331,35494,3163,9.7832,5698
+"    ""35-9031""","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",36822,43254,6432,17.4678,9813
+"    ""35-9099""","Food Preparation and Serving Related Workers, All Other",6007,7090,1083,18.029,1227
+"    ""37-1011""",First-Line Supervisors of Housekeeping and Janitorial Workers,15369,17687,2318,15.0823,2106
+"    ""37-2011""","Janitors and Cleaners, Except Maids and Housekeeping Cleaners",178990,201752,22762,12.7169,27346
+"    ""37-2012""",Maids and Housekeeping Cleaners,97165,106183,9018,9.2811,14594
+"    ""37-3011""",Landscaping and Groundskeeping Workers,90296,103859,13563,15.0206,13927
+"    ""37-3012""","Pesticide Handlers, Sprayers, and Applicators, Vegetation",1191,1300,109,9.152,172
+"    ""37-3013""",Tree Trimmers and Pruners,4255,4907,652,15.3231,659
+"    ""37-3019""","Grounds Maintenance Workers, All Other",1409,1624,215,15.259,218
+"    ""39-2011""",Animal Trainers,2366,2945,579,24.4717,445
+"    ""39-2021""",Animal Caretakers,22567,28310,5743,25.4487,4694
+"    ""39-3011""",Gambling Dealers,116,142,26,22.4138,23
+"    ""39-3012""",Gambling and Sports Book Writers and Runners,936,1014,78,8.3333,159
+"    ""39-3019""","Gambling Service Workers, All Other",1296,1379,83,6.4043,215
+"    ""39-3021""",Motion Picture Projectionists,434,400,-34,-7.8341,78
+"    ""39-3031""","Ushers, Lobby Attendants, and Ticket Takers",8474,9796,1322,15.6007,2354
+"    ""39-3091""",Amusement and Recreation Attendants,20123,23521,3398,16.8862,5366
+"    ""39-3092""",Costume Attendants,116,137,21,18.1034,32
+"    ""39-3093""","Locker Room, Coatroom, and Dressing Room Attendants",941,1061,120,12.7524,242
+"    ""39-3099""","Entertainment Attendants and Related Workers, All Other",263,295,32,12.1673,68
+"    ""39-4011""",Embalmers,375,371,-4,-1.0667,60
+"    ""39-4021""",Funeral Attendants,2137,2213,76,3.5564,357
+"    ""39-4031""","Morticians, Undertakers, and Funeral Arrangers",2328,2418,90,3.866,291
+"    ""39-5011""",Barbers,16577,19273,2696,16.2635,2264
+"    ""39-5012""","Hairdressers, Hairstylists, and Cosmetologists",52757,60873,8116,15.3837,7889
+"    ""39-5091""","Makeup Artists, Theatrical and Performance",146,167,21,14.3836,20
+"    ""39-5092""",Manicurists and Pedicurists,2361,2759,398,16.8573,332
+"    ""39-5093""",Shampooers,1325,1549,224,16.9057,186
+"    ""39-5094""",Skincare Specialists,6646,7889,1243,18.703,953
+"    ""39-6011""",Baggage Porters and Bellhops,1896,2228,332,17.5105,327
+"    ""39-6012""",Concierges,2445,2810,365,14.9284,410
+"    ""39-7010""",Tour and Travel Guides,3277,3854,577,17.6076,682
+"    ""39-9011""",Childcare Workers,80206,88580,8374,10.4406,13428
+"    ""39-9031""",Exercise Trainers and Group Fitness Instructors,22562,27709,5147,22.8127,4690
+"    ""39-9032""",Recreation Workers,25369,29033,3664,14.4428,4884
+"    ""39-9041""",Residential Advisors,6906,7948,1042,15.0883,1232
+"    ""39-9098""","Crematory Operators and Personal Care and Service Workers, All Other",3693,4284,591,16.0032,642
+"    ""41-1011""",First-Line Supervisors of Retail Sales Workers,129704,143114,13410,10.3389,16337
+"    ""41-1012""",First-Line Supervisors of Non-Retail Sales Workers,38615,43274,4659,12.0653,4378
+"    ""41-2011""",Cashiers,274723,288377,13654,4.9701,54476
+"    ""41-2012""",Gambling Change Persons and Booth Cashiers,124,134,10,8.0645,26
+"    ""41-2021""",Counter and Rental Clerks,45895,51128,5233,11.4021,6745
+"    ""41-2022""",Parts Salespersons,23482,26922,3440,14.6495,3378
+"    ""41-2031""",Retail Salespersons,403976,444235,40259,9.9657,65975
+"    ""41-3011""",Advertising Sales Agents,7478,7377,-101,-1.3506,998
+"    ""41-3021""",Insurance Sales Agents,36795,43295,6500,17.6654,4541
+"    ""41-3031""","Securities, Commodities, and Financial Services Sales Agents",45912,54640,8728,19.0103,5633
+"    ""41-3041""",Travel Agents,5344,5675,331,6.1939,766
+"    ""41-9011""",Demonstrators and Product Promoters,6556,7823,1267,19.3258,1358
+"    ""41-9022""",Real Estate Sales Agents,43099,51342,8243,19.1257,5310
+"    ""41-9031""",Sales Engineers,9074,10461,1387,15.2854,1218
+"    ""41-9041""",Telemarketers,18692,17055,-1637,-8.7578,2643
+"    ""41-9091""","Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",9828,12230,2402,24.4404,1594
+"    ""41-9099""","Sales and Related Workers, All Other",9463,10789,1326,14.0125,1452
+"    ""43-1011""",First-Line Supervisors of Office and Administrative Support Workers,120651,129244,8593,7.1222,13949
+"    ""43-2011""","Switchboard Operators, Including Answering Service",4770,3978,-792,-16.6038,463
+"    ""43-2021""",Telephone Operators,310,264,-46,-14.8387,34
+"    ""43-2099""","Communications Equipment Operators, All Other",71,81,10,14.0845,9
+"    ""43-3011""",Bill and Account Collectors,28681,28791,110,0.3835,3441
+"    ""43-3021""",Billing and Posting Clerks,43067,50824,7757,18.0115,5873
+"    ""43-3031""","Bookkeeping, Accounting, and Auditing Clerks",143878,152300,8422,5.8536,18096
+"    ""43-3051""",Payroll and Timekeeping Clerks,13708,14480,772,5.6317,1626
+"    ""43-3061""",Procurement Clerks,6215,6465,250,4.0225,683
+"    ""43-3071""",Tellers,47758,49677,1919,4.0182,6064
+"    ""43-4011""",Brokerage Clerks,4735,5710,975,20.5913,639
+"    ""43-4021""",Correspondence Clerks,587,613,26,4.4293,72
+"    ""43-4031""","Court, Municipal, and License Clerks",9798,10710,912,9.308,1042
+"    ""43-4041""","Credit Authorizers, Checkers, and Clerks",3380,3550,170,5.0296,363
+"    ""43-4051""",Customer Service Representatives,284520,307264,22744,7.9938,41708
+"    ""43-4061""","Eligibility Interviewers, Government Programs",11097,12810,1713,15.4366,1306
+"    ""43-4071""",File Clerks,11268,10622,-646,-5.733,1286
+"    ""43-4081""","Hotel, Motel, and Resort Desk Clerks",23233,24759,1526,6.5682,4217
+"    ""43-4111""","Interviewers, Except Eligibility and Loan",10949,11910,961,8.7771,1503
+"    ""43-4121""","Library Assistants, Clerical",5086,5066,-20,-0.3932,764
+"    ""43-4131""",Loan Interviewers and Clerks,25748,30619,4871,18.918,3344
+"    ""43-4141""",New Accounts Clerks,4760,5084,324,6.8067,602
+"    ""43-4151""",Order Clerks,18376,18995,619,3.3685,2215
+"    ""43-4161""","Human Resources Assistants, Except Payroll and Timekeeping",11881,12289,408,3.4341,1411
+"    ""43-4171""",Receptionists and Information Clerks,67544,74086,6542,9.6855,10166
+"    ""43-4181""",Reservation and Transportation Ticket Agents and Travel Clerks,19029,20204,1175,6.1748,2345
+"    ""43-4199""","Information and Record Clerks, All Other",15982,17914,1932,12.0886,2153
+"    ""43-5011""",Cargo and Freight Agents,9612,11947,2335,24.2926,1255
+"    ""43-5021""",Couriers and Messengers,8242,9274,1032,12.5212,939
+"    ""43-5031""",Public Safety Telecommunicators,7834,8573,739,9.4332,850
+"    ""43-5032""","Dispatchers, Except Police, Fire, and Ambulance",22929,25378,2449,10.6808,2529
+"    ""43-5041""","Meter Readers, Utilities",2809,2667,-142,-5.0552,255
+"    ""43-5051""",Postal Service Clerks,4628,4166,-462,-9.9827,289
+"    ""43-5052""",Postal Service Mail Carriers,24459,22016,-2443,-9.9881,1481
+"    ""43-5053""","Postal Service Mail Sorters, Processors, and Processing Machine Operators",6237,5334,-903,-14.4781,389
+"    ""43-5061""","Production, Planning, and Expediting Clerks",33671,37849,4178,12.4083,4143
+"    ""43-5071""","Shipping, Receiving, and Inventory Clerks",62796,67883,5087,8.1008,6995
+"    ""43-5111""","Weighers, Measurers, Checkers, and Samplers, Recordkeeping",5961,6699,738,12.3805,795
+"    ""43-6011""",Executive Secretaries and Executive Administrative Assistants,40593,34669,-5924,-14.5936,3620
+"    ""43-6012""",Legal Secretaries and Administrative Assistants,13279,11781,-1498,-11.281,1252
+"    ""43-6013""",Medical Secretaries and Administrative Assistants,95175,118967,23792,24.9982,14363
+"    ""43-9021""",Data Entry Keyers,21887,18059,-3828,-17.4898,1922
+"    ""43-9022""",Word Processors and Typists,1401,1061,-340,-24.2684,116
+"    ""43-9031""",Desktop Publishers,1123,1004,-119,-10.5966,112
+"    ""43-9041""",Insurance Claims and Policy Processing Clerks,33312,37843,4531,13.6017,3992
+"    ""43-9051""","Mail Clerks and Mail Machine Operators, Except Postal Service",6108,6302,194,3.1762,706
+"    ""43-9061""","Office Clerks, General",339566,353723,14157,4.1691,42905
+"    ""43-9071""","Office Machine Operators, Except Computer",4986,4674,-312,-6.2575,584
+"    ""43-9081""",Proofreaders and Copy Markers,693,811,118,17.0274,112
+"    ""43-9111""",Statistical Assistants,792,866,74,9.3434,110
+"    ""43-9199""","Office and Administrative Support Workers, All Other",8367,9474,1107,13.2305,1148
+"    ""45-1011""","First-Line Supervisors of Farming, Fishing, and Forestry Workers",2870,2865,-5,-0.1742,423
+"    ""45-2011""",Agricultural Inspectors,658,712,54,8.2067,105
+"    ""45-2041""","Graders and Sorters, Agricultural Products",6128,6373,245,3.998,938
+"    ""45-2091""",Agricultural Equipment Operators,3999,3836,-163,-4.076,624
+"    ""45-2092""","Farmworkers and Laborers, Crop, Nursery, and Greenhouse",76468,74288,-2180,-2.8509,12088
+"    ""45-2093""","Farmworkers, Farm, Ranch, and Aquacultural Animals",79014,78654,-360,-0.4556,12836
+"    ""45-4011""",Forest and Conservation Workers,353,341,-12,-3.3994,60
+"    ""45-4021""",Fallers,302,239,-63,-20.8609,38
+"    ""45-4022""",Logging Equipment Operators,1033,905,-128,-12.3911,142
+"    ""47-1011""",First-Line Supervisors of Construction Trades and Extraction Workers,84183,98543,14360,17.0581,10933
+"    ""47-2011""",Boilermakers,3946,4386,440,11.1505,460
+"    ""47-2021""",Brickmasons and Blockmasons,5791,6938,1147,19.8066,751
+"    ""47-2022""",Stonemasons,873,996,123,14.0893,105
+"    ""47-2031""",Carpenters,54725,63129,8404,15.3568,6939
+"    ""47-2041""",Carpet Installers,1828,1952,124,6.7834,196
+"    ""47-2042""","Floor Layers, Except Carpet, Wood, and Hard Tiles",267,314,47,17.603,33
+"    ""47-2043""",Floor Sanders and Finishers,379,427,48,12.6649,45
+"    ""47-2044""",Tile and Stone Setters,3861,4688,827,21.4193,500
+"    ""47-2051""",Cement Masons and Concrete Finishers,22270,26401,4131,18.5496,2967
+"    ""47-2053""",Terrazzo Workers and Finishers,350,395,45,12.8571,43
+"    ""47-2061""",Construction Laborers,160372,190026,29654,18.4908,22451
+"    ""47-2071""","Paving, Surfacing, and Tamping Equipment Operators",4194,4937,743,17.7158,642
+"    ""47-2072""",Pile Driver Operators,409,473,64,15.6479,57
+"    ""47-2073""",Operating Engineers and Other Construction Equipment Operators,45092,52709,7617,16.8921,6400
+"    ""47-2081""",Drywall and Ceiling Tile Installers,9945,10192,247,2.4837,1026
+"    ""47-2082""",Tapers,472,477,5,1.0593,47
+"    ""47-2111""",Electricians,68009,77578,9569,14.0702,9392
+"    ""47-2121""",Glaziers,4758,5679,921,19.3569,690
+"    ""47-2131""","Insulation Workers, Floor, Ceiling, and Wall",5550,5875,325,5.8559,687
+"    ""47-2132""","Insulation Workers, Mechanical",3062,3314,252,8.2299,391
+"    ""47-2141""","Painters, Construction and Maintenance",34371,38053,3682,10.7125,4035
+"    ""47-2151""",Pipelayers,5437,6572,1135,20.8755,780
+"    ""47-2152""","Plumbers, Pipefitters, and Steamfitters",49483,57686,8203,16.5774,6764
+"    ""47-2161""",Plasterers and Stucco Masons,2098,2300,202,9.6282,220
+"    ""47-2171""",Reinforcing Iron and Rebar Workers,3547,4222,675,19.0302,523
+"    ""47-2181""",Roofers,9868,11967,2099,21.2708,1337
+"    ""47-2211""",Sheet Metal Workers,10970,12335,1365,12.443,1398
+"    ""47-2221""",Structural Iron and Steel Workers,9322,10931,1609,17.2602,1357
+"    ""47-3011""","Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters",1704,2038,334,19.6009,285
+"    ""47-3012""",Helpers--Carpenters,3326,3890,564,16.9573,542
+"    ""47-3013""",Helpers--Electricians,10130,11045,915,9.0326,1519
+"    ""47-3014""","Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons",1472,1609,137,9.3071,222
+"    ""47-3015""","Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters",9589,11205,1616,16.8526,1562
+"    ""47-3016""",Helpers--Roofers,664,819,155,23.3434,116
+"    ""47-3019""","Helpers, Construction Trades, All Other",4030,4613,583,14.4665,640
+"    ""47-4011""",Construction and Building Inspectors,11727,13389,1662,14.1724,1721
+"    ""47-4021""",Elevator and Escalator Installers and Repairers,3058,3441,383,12.5245,406
+"    ""47-4031""",Fence Erectors,3735,4317,582,15.5823,530
+"    ""47-4041""",Hazardous Materials Removal Workers,4526,5199,673,14.8696,678
+"    ""47-4051""",Highway Maintenance Workers,6835,7558,723,10.5779,871
+"    ""47-4061""",Rail-Track Laying and Maintenance Equipment Operators,1260,1534,274,21.746,172
+"    ""47-4071""",Septic Tank Servicers and Sewer Pipe Cleaners,1467,1705,238,16.2236,204
+"    ""47-4090""",Miscellaneous Construction and Related Workers,2452,2885,433,17.6591,374
+"    ""47-5011""","Derrick Operators, Oil and Gas",6007,7238,1231,20.4928,1056
+"    ""47-5012""","Rotary Drill Operators, Oil and Gas",7363,8732,1369,18.593,1271
+"    ""47-5013""","Service Unit Operators, Oil and Gas",25736,30645,4909,19.0744,4465
+"    ""47-5022""","Excavating and Loading Machine and Dragline Operators, Surface Mining",7162,8386,1224,17.0902,1042
+"    ""47-5041""",Continuous Mining Machine Operators,332,392,60,18.0723,51
+"    ""47-5044""","Loading and Moving Machine Operators, Underground Mining",257,296,39,15.1751,37
+"    ""47-5051""","Rock Splitters, Quarry",233,256,23,9.8712,34
+"    ""47-5071""","Roustabouts, Oil and Gas",28337,33856,5519,19.4763,4656
+"    ""47-5081""",Helpers--Extraction Workers,7172,8452,1280,17.8472,1163
+"    ""47-5098""","Underground Mining Machine Operators and Extraction Workers, All Other",106,126,20,18.8679,16
+"    ""49-1011""","First-Line Supervisors of Mechanics, Installers, and Repairers",40752,46030,5278,12.9515,4509
+"    ""49-2011""","Computer, Automated Teller, and Office Machine Repairers",11374,12680,1306,11.4823,1409
+"    ""49-2021""","Radio, Cellular, and Tower Equipment Installers and Repairers",1324,1682,358,27.0393,202
+"    ""49-2091""",Avionics Technicians,1822,1935,113,6.202,146
+"    ""49-2092""","Electric Motor, Power Tool, and Related Repairers",1676,1893,217,12.9475,206
+"    ""49-2094""","Electrical and Electronics Repairers, Commercial and Industrial Equipment",5389,5861,472,8.7586,536
+"    ""49-2095""","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",1759,1936,177,10.0625,178
+"    ""49-2096""","Electronic Equipment Installers and Repairers, Motor Vehicles",1480,1419,-61,-4.1216,162
+"    ""49-2097""",Audiovisual Equipment Installers and Repairers,3044,3335,291,9.5598,378
+"    ""49-2098""",Security and Fire Alarm Systems Installers,8561,9830,1269,14.823,1228
+"    ""49-3011""",Aircraft Mechanics and Service Technicians,18000,19390,1390,7.7222,1669
+"    ""49-3021""",Automotive Body and Related Repairers,12322,13726,1404,11.3943,1390
+"    ""49-3022""",Automotive Glass Installers and Repairers,1690,1872,182,10.7692,188
+"    ""49-3023""",Automotive Service Technicians and Mechanics,60441,65328,4887,8.0856,6612
+"    ""49-3031""",Bus and Truck Mechanics and Diesel Engine Specialists,30108,34328,4220,14.0162,3403
+"    ""49-3041""",Farm Equipment Mechanics and Service Technicians,2686,3084,398,14.8176,327
+"    ""49-3042""","Mobile Heavy Equipment Mechanics, Except Engines",19703,22432,2729,13.8507,2369
+"    ""49-3043""",Rail Car Repairers,2859,3554,695,24.3092,389
+"    ""49-3051""",Motorboat Mechanics and Service Technicians,1539,1749,210,13.6452,185
+"    ""49-3052""",Motorcycle Mechanics,1336,1556,220,16.4671,166
+"    ""49-3053""",Outdoor Power Equipment and Other Small Engine Mechanics,2669,3035,366,13.713,322
+"    ""49-3091""",Bicycle Repairers,376,452,76,20.2128,53
+"    ""49-3092""",Recreational Vehicle Service Technicians,1747,2025,278,15.913,236
+"    ""49-3093""",Tire Repairers and Changers,14355,16329,1974,13.7513,1887
+"    ""49-9011""",Mechanical Door Repairers,2067,2347,280,13.5462,217
+"    ""49-9012""","Control and Valve Installers and Repairers, Except Mechanical Door",11713,13407,1694,14.4626,1242
+"    ""49-9021""","Heating, Air Conditioning, and Refrigeration Mechanics and Installers",28460,32992,4532,15.9241,3453
+"    ""49-9031""",Home Appliance Repairers,2643,2859,216,8.1725,319
+"    ""49-9041""",Industrial Machinery Mechanics,37812,42573,4761,12.5912,4159
+"    ""49-9043""","Maintenance Workers, Machinery",8349,9431,1082,12.9596,912
+"    ""49-9044""",Millwrights,4109,4649,540,13.1419,432
+"    ""49-9045""","Refractory Materials Repairers, Except Brickmasons",217,242,25,11.5207,23
+"    ""49-9051""",Electrical Power-Line Installers and Repairers,12004,13888,1884,15.6948,1275
+"    ""49-9052""",Telecommunications Line Installers and Repairers,8288,10518,2230,26.9064,1271
+"    ""49-9062""",Medical Equipment Repairers,4187,4703,516,12.3239,519
+"    ""49-9063""",Musical Instrument Repairers and Tuners,1032,1001,-31,-3.0039,104
+"    ""49-9064""",Watch and Clock Repairers,279,233,-46,-16.4875,22
+"    ""49-9069""","Precision Instrument and Equipment Repairers, All Other",921,1016,95,10.3149,112
+"    ""49-9071""","Maintenance and Repair Workers, General",117761,134678,16917,14.3655,13926
+"    ""49-9081""",Wind Turbine Service Technicians,2038,3728,1690,82.9244,479
+"    ""49-9091""","Coin, Vending, and Amusement Machine Servicers and Repairers",2399,2580,181,7.5448,309
+"    ""49-9092""",Commercial Divers,321,350,29,9.0343,39
+"    ""49-9094""",Locksmiths and Safe Repairers,1991,1923,-68,-3.4154,204
+"    ""49-9095""",Manufactured Building and Mobile Home Installers,290,267,-23,-7.931,18
+"    ""49-9096""",Riggers,3091,3578,487,15.7554,370
+"    ""49-9097""",Signal and Track Switch Repairers,699,795,96,13.7339,90
+"    ""49-9098""","Helpers--Installation, Maintenance, and Repair Workers",15246,17537,2291,15.0269,2324
+"    ""49-9099""","Installation, Maintenance, and Repair Workers, All Other",12122,13985,1863,15.3688,1587
+"    ""51-1011""",First-Line Supervisors of Production and Operating Workers,50219,53784,3565,7.0989,5670
+"    ""51-2011""","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",3312,2644,-668,-20.1691,194
+"    ""51-2021""","Coil Winders, Tapers, and Finishers",907,803,-104,-11.4664,87
+"    ""51-2028""","Electrical, etc., assemblers, except coil winders, tapers, and finishers",22625,24105,1480,6.5414,2804
+"    ""51-2031""",Engine and Other Machine Assemblers,2127,1943,-184,-8.6507,223
+"    ""51-2041""",Structural Metal Fabricators and Fitters,8149,7592,-557,-6.8352,766
+"    ""51-2051""",Fiberglass Laminators and Fabricators,1044,1103,59,5.6513,131
+"    ""51-3011""",Bakers,16228,18865,2637,16.2497,2661
+"    ""51-3021""",Butchers and Meat Cutters,12754,14522,1768,13.8623,1864
+"    ""51-3022""","Meat, Poultry, and Fish Cutters and Trimmers",7472,7841,369,4.9384,984
+"    ""51-3092""",Food Batchmakers,9298,10055,757,8.1415,1510
+"    ""51-3093""",Food Cooking Machine Operators and Tenders,2786,2994,208,7.4659,473
+"    ""51-3099""","Food Processing Workers, All Other",3811,4222,411,10.7846,469
+"    ""51-4022""","Forging Machine Setters, Operators, and Tenders, Metal and Plastic",1246,1083,-163,-13.0819,94
+"    ""51-4023""","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",1851,1885,34,1.8368,180
+"    ""51-4041""",Machinists,26757,29613,2856,10.6738,3148
+"    ""51-4051""",Metal-Refining Furnace Operators and Tenders,627,624,-3,-0.4785,74
+"    ""51-4052""","Pourers and Casters, Metal",411,365,-46,-11.1922,41
+"    ""51-4061""","Model Makers, Metal and Plastic",156,146,-10,-6.4103,15
+"    ""51-4062""","Patternmakers, Metal and Plastic",172,146,-26,-15.1163,14
+"    ""51-4071""",Foundry Mold and Coremakers,543,452,-91,-16.7587,45
+"    ""51-4081""","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",9278,10242,964,10.3902,1117
+"    ""51-4111""",Tool and Die Makers,1893,1996,103,5.4411,202
+"    ""51-4121""","Welders, Cutters, Solderers, and Brazers",54421,61604,7183,13.1989,7074
+"    ""51-4122""","Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders",1464,1479,15,1.0246,164
+"    ""51-4191""","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",2074,2080,6,0.2893,218
+"    ""51-4192""","Layout Workers, Metal and Plastic",449,443,-6,-1.3363,46
+"    ""51-4193""","Plating Machine Setters, Operators, and Tenders, Metal and Plastic",3047,3119,72,2.363,335
+"    ""51-4194""","Tool Grinders, Filers, and Sharpeners",474,505,31,6.5401,73
+"    ""51-4199""","Metal Workers and Plastic Workers, All Other",1699,1702,3,0.1766,178
+"    ""51-5111""",Prepress Technicians and Workers,1907,1557,-350,-18.3534,176
+"    ""51-5112""",Printing Press Operators,11000,10444,-556,-5.0545,1100
+"    ""51-5113""",Print Binding and Finishing Workers,2396,2120,-276,-11.5192,286
+"    ""51-6011""",Laundry and Dry-Cleaning Workers,14524,15278,754,5.1914,2062
+"    ""51-6021""","Pressers, Textile, Garment, and Related Materials",5105,4258,-847,-16.5916,462
+"    ""51-6031""",Sewing Machine Operators,11783,12835,1052,8.9281,1484
+"    ""51-6041""",Shoe and Leather Workers and Repairers,1567,1824,257,16.4008,226
+"    ""51-6051""","Sewers, Hand",407,475,68,16.7076,65
+"    ""51-6052""","Tailors, Dressmakers, and Custom Sewers",3966,4365,399,10.0605,594
+"    ""51-6062""","Textile Cutting Machine Setters, Operators, and Tenders",839,902,63,7.5089,87
+"    ""51-6063""","Textile Knitting and Weaving Machine Setters, Operators, and Tenders",550,466,-84,-15.2727,49
+"    ""51-6093""",Upholsterers,2067,2225,158,7.6439,239
+"    ""51-6099""","Textile, Apparel, and Furnishings Workers, All Other",780,862,82,10.5128,120
+"    ""51-7011""",Cabinetmakers and Bench Carpenters,9855,11112,1257,12.7549,1213
+"    ""51-7021""",Furniture Finishers,1556,1758,202,12.982,208
+"    ""51-7041""","Sawing Machine Setters, Operators, and Tenders, Wood",3665,4002,337,9.1951,478
+"    ""51-7042""","Woodworking Machine Setters, Operators, and Tenders, Except Sawing",4443,4874,431,9.7007,692
+"    ""51-7099""","Woodworkers, All Other",1818,2100,282,15.5116,270
+"    ""51-8013""",Power Plant Operators,2544,2612,68,2.673,248
+"    ""51-8021""",Stationary Engineers and Boiler Operators,1941,2132,191,9.8403,234
+"    ""51-8031""",Water and Wastewater Treatment Plant and System Operators,12220,12170,-50,-0.4092,1101
+"    ""51-8091""",Chemical Plant and System Operators,5300,4266,-1034,-19.5094,428
+"    ""51-8092""",Gas Plant Operators,3025,3416,391,12.9256,396
+"    ""51-8093""","Petroleum Pump System Operators, Refinery Operators, and Gaugers",10387,11070,683,6.5755,1259
+"    ""51-8099""","Plant and System Operators, All Other",953,1058,105,11.0178,122
+"    ""51-9011""",Chemical Equipment Operators and Tenders,13584,11188,-2396,-17.6384,1181
+"    ""51-9021""","Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",2741,2823,82,2.9916,332
+"    ""51-9022""","Grinding and Polishing Workers, Hand",1473,1274,-199,-13.5098,140
+"    ""51-9023""","Mixing and Blending Machine Setters, Operators, and Tenders",8184,8555,371,4.5332,1011
+"    ""51-9031""","Cutters and Trimmers, Hand",537,422,-115,-21.4153,47
+"    ""51-9032""","Cutting and Slicing Machine Setters, Operators, and Tenders",4184,4300,116,2.7725,534
+"    ""51-9051""","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",1034,1094,60,5.8027,119
+"    ""51-9061""","Inspectors, Testers, Sorters, Samplers, and Weighers",55780,50580,-5200,-9.3223,6032
+"    ""51-9071""",Jewelers and Precious Stone and Metal Workers,3656,3982,326,8.9168,518
+"    ""51-9081""",Dental Laboratory Technicians,2420,3049,629,25.9917,400
+"    ""51-9082""",Medical Appliance Technicians,625,748,123,19.68,96
+"    ""51-9083""",Ophthalmic Laboratory Technicians,3234,3916,682,21.0884,509
+"    ""51-9111""",Packaging and Filling Machine Operators and Tenders,21041,22696,1655,7.8656,2706
+"    ""51-9123""","Painting, Coating, and Decorating Workers",1313,1475,162,12.3382,168
+"    ""51-9124""","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",8912,9855,943,10.5812,1114
+"    ""51-9141""",Semiconductor Processing Technicians,4083,4384,301,7.372,520
+"    ""51-9151""",Photographic Process Workers and Processing Machine Operators,841,708,-133,-15.8145,105
+"    ""51-9161""",Computer Numerically Controlled Tool Operators,11152,10981,-171,-1.5334,1119
+"    ""51-9162""",Computer Numerically Controlled Tool Programmers,1605,2072,467,29.0966,236
+"    ""51-9191""",Adhesive Bonding Machine Operators and Tenders,613,618,5,0.8157,80
+"    ""51-9192""","Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",2121,2271,150,7.0721,357
+"    ""51-9193""",Cooling and Freezing Equipment Operators and Tenders,776,828,52,6.701,98
+"    ""51-9194""",Etchers and Engravers,1245,1429,184,14.7791,178
+"    ""51-9195""","Molders, Shapers, and Casters, Except Metal and Plastic",3327,3574,247,7.4241,408
+"    ""51-9196""","Paper Goods Machine Setters, Operators, and Tenders",4705,4716,11,0.2338,511
+"    ""51-9197""",Tire Builders,222,216,-6,-2.7027,21
+"    ""51-9198""",Helpers--Production Workers,38119,44948,6829,17.915,6805
+"    ""51-9199""","Production Workers, All Other",9353,10386,1033,11.0446,1245
+"    ""53-1041""",Aircraft Cargo Handling Supervisors,759,829,70,9.2227,92
+"    ""53-2011""","Airline Pilots, Copilots, and Flight Engineers",9674,10252,578,5.9748,1071
+"    ""53-2012""",Commercial Pilots,5164,5814,650,12.5871,623
+"    ""53-2021""",Air Traffic Controllers,2088,2253,165,7.9023,218
+"    ""53-2022""",Airfield Operations Specialists,1242,1417,175,14.0902,141
+"    ""53-2031""",Flight Attendants,15530,17301,1771,11.4037,2028
+"    ""53-3011""","Ambulance Drivers and Attendants, Except Emergency Medical Technicians",904,1093,189,20.9071,170
+"    ""53-3031""",Driver/Sales Workers,46157,48328,2171,4.7035,5588
+"    ""53-3032""",Heavy and Tractor-Trailer Truck Drivers,210473,244020,33547,15.9389,29193
+"    ""53-3033""",Light Truck Drivers,71735,82290,10555,14.7139,9813
+"    ""53-3052""","Bus Drivers, Transit and Intercity",11375,12603,1228,10.7956,1635
+"    ""53-3058""","Passenger Vehicle Drivers, Except Bus Drivers, Transit and Intercity",22224,30856,8632,38.8409,3738
+"    ""53-3099""","Motor Vehicle Operators, All Other",2324,2643,319,13.7263,450
+"    ""53-4011""",Locomotive Engineers,1895,2050,155,8.1794,199
+"    ""53-4013""","Rail Yard Engineers, Dinkey Operators, and Hostlers",870,1040,170,19.5402,106
+"    ""53-4022""","Railroad Brake, Signal, and Switch Operators and Locomotive Firers",1451,1717,266,18.3322,177
+"    ""53-4031""",Railroad Conductors and Yardmasters,3907,4236,329,8.4208,417
+"    ""53-4041""",Subway and Streetcar Operators,433,512,79,18.2448,58
+"    ""53-5011""",Sailors and Marine Oilers,2679,2709,30,1.1198,338
+"    ""53-5021""","Captains, Mates, and Pilots of Water Vessels",3135,3315,180,5.7416,324
+"    ""53-5022""",Motorboat Operators,202,267,65,32.1782,28
+"    ""53-5031""",Ship Engineers,227,254,27,11.8943,33
+"    ""53-6021""",Parking Attendants,10079,10951,872,8.6517,1693
+"    ""53-6031""",Automotive and Watercraft Service Attendants,12279,13843,1564,12.7372,2085
+"    ""53-6041""",Traffic Technicians,513,564,51,9.9415,62
+"    ""53-6051""",Transportation Inspectors,4617,5163,546,11.8259,548
+"    ""53-6061""",Passenger Attendants,721,847,126,17.4757,116
+"    ""53-7011""",Conveyor Operators and Tenders,1835,1811,-24,-1.3079,215
+"    ""53-7021""",Crane and Tower Operators,6222,7155,933,14.9952,873
+"    ""53-7051""",Industrial Truck and Tractor Operators,68822,77678,8856,12.868,9125
+"    ""53-7061""",Cleaners of Vehicles and Equipment,40045,45314,5269,13.1577,6740
+"    ""53-7062""","Laborers and Freight, Stock, and Material Movers, Hand",209838,238686,28848,13.7477,34033
+"    ""53-7063""",Machine Feeders and Offbearers,5150,5459,309,6,732
+"    ""53-7064""","Packers and Packagers, Hand",35986,37746,1760,4.8908,5488
+"    ""53-7065""",Stockers and Order Fillers,168080,187954,19874,11.8241,25682
+"    ""53-7071""",Gas Compressor and Gas Pumping Station Operators,177,228,51,28.8136,29
+"    ""53-7072""","Pump Operators, Except Wellhead Pumpers",3018,3470,452,14.9768,432
+"    ""53-7073""",Wellhead Pumpers,7137,7525,388,5.4365,913
+"    ""53-7081""",Refuse and Recyclable Material Collectors,10169,12151,1982,19.4906,1738
+"    ""53-7121""","Tank Car, Truck, and Ship Loaders",1192,1321,129,10.8221,171
+"    ""53-7199""","Material Moving Workers, All Other",2370,2701,331,13.9662,352
