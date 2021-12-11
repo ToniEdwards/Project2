@@ -1,9 +1,11 @@
----SQL to create the database tables
+﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
+-- Link to schema: https://app.quickdatabasediagrams.com/#/d/mmG5z3
+-- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
 CREATE TABLE "job_title" (
     "job_code" VARCHAR   NOT NULL,
-    "title" VARCHAR(100)   NOT NULL,
+    "title" VARCHAR   NOT NULL,
     CONSTRAINT "pk_job_title" PRIMARY KEY (
         "job_code"
      )
@@ -21,6 +23,7 @@ CREATE TABLE "education" (
 
 CREATE TABLE "salary" (
     "job_code" VARCHAR   NOT NULL,
+    "salary_category" VARCHAR   NOT NULL,
     "statewide" INT   NOT NULL,
     "abilene" INT   NOT NULL,
     "amarillo" INT   NOT NULL,
@@ -46,10 +49,7 @@ CREATE TABLE "salary" (
     "tyler" INT   NOT NULL,
     "victoria" INT   NOT NULL,
     "waco" INT   NOT NULL,
-    "wichita_falls" INT   NOT NULL,
-    CONSTRAINT "pk_salary" PRIMARY KEY (
-        "job_code"
-     )
+    "wichita_falls" INT   NOT NULL
 );
 
 CREATE TABLE "projections" (
